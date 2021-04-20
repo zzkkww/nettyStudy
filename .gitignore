@@ -85,3 +85,4 @@ spring-devtools.properties
 quartz.properties
 bootstrap.yml
 data/
+/.idea
